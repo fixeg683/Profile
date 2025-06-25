@@ -1,11 +1,6 @@
-Here's a **professional GitHub Profile README template** tailored to your ALX Back-End Developer journey. It highlights your motivation, passions, career goals, and sample projects—all wrapped in clean **HTML-enhanced markdown** for standout formatting.
 
----
 
-### ✅ GitHub Profile README Template (Copy into your `README.md` file of your GitHub profile repo)
-
-````markdown
-<h1 align="center">Hi 👋, I'm Neuron Stars</h1>
+<h1 align="center">Hi 👋, I'm Jacob Otana</h1>
 <h3 align="center">🚀 Aspiring Back-End Developer | ALX SE Learner | Open Source Contributor</h3>
 
 <p align="center">
