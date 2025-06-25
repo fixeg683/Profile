@@ -1,7 +1,3 @@
-Here's a preview of the GitHub Profile README template:
-
----
-
 # Hi 👋, I'm Jacob Otana
 ### 🚀 Aspiring Back-End Developer | ALX SE Learner | Open Source Contributor
 
@@ -89,21 +85,3 @@ DevOps and Backend Passionate 💻
 > I want to use code to create sustainable impact, grow through collaboration, and build tools that help others succeed.
 
 ⭐️ Feel free to star any repo that resonates with you. Let's build something great together!
-
----
-
----
-
-### ✅ Next Step:
-
-Would you like me to **personalize** the template for your actual:
-
-* GitHub username
-* LinkedIn/Twitter links
-* Real email
-* Actual project repo URLs
-* Profile image or banner
-
-Or would you prefer help creating new repos for the listed projects?
-
-Let me know how I can help you customize this further to truly reflect your developer identity!
